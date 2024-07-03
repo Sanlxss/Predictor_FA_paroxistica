@@ -511,7 +511,7 @@ if __name__ == '__main__':
 
     ###############################
 	#Creamos el conjunto de características Inicial
-    rutaBD = '../BD_pacientes_FINAL/BD_COMPLETA_pruebasPEQ/'
+    rutaBD = '../BD_pacientes_FINAL/BD_COMPLETA/'
     
     df_contar_columnas=pd.read_csv(rutaBD+'1_SR.csv')
     num_features = len(df_contar_columnas.columns)
