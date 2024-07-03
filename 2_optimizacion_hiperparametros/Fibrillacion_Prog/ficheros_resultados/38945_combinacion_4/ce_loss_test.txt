@@ -1,0 +1,44 @@
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.6530131697654724
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5394643545150757
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5344523191452026
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.788792073726654
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5912646651268005
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 38945_combinacion_4		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5637081861495972

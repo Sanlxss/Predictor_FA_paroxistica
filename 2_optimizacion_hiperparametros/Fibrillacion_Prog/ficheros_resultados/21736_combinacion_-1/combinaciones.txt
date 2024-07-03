@@ -1,0 +1,13 @@
+COMBINACION: -1
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 20
+batch_size: 100
+rec_dims: 40
+rec_layers: 3
+gen_layers: 3
+units: 50
+gru_units: 50
+
+-------------------------------------------------------------

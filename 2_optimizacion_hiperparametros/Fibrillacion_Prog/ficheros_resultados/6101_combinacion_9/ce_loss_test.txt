@@ -1,0 +1,44 @@
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5995664596557617
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 1.0463769435882568
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.6145687699317932
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5723247528076172
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.7382088303565979
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 6101_combinacion_9		 Prueba
+-------------------------------------------------------------
+Batch: 0, CE Loss: 0.5745169520378113

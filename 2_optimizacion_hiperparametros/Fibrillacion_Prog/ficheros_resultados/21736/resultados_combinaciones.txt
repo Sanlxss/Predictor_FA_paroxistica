@@ -1,0 +1,27 @@
+COMBINACION: -1
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 20
+batch_size: 100
+rec_dims: 40
+rec_layers: 3
+gen_layers: 3
+units: 50
+gru_units: 50
+
+-------------------------------------------------------------
+FOLD: 0
+RESULTADOS: 0.5957774403613151
+FOLD: 1
+RESULTADOS: 0.6812105280298233
+FOLD: 2
+RESULTADOS: 0.6762143242446874
+FOLD: 3
+RESULTADOS: 0.6820280793430857
+FOLD: 4
+RESULTADOS: 0.6419776929031037
+FOLD: 5
+RESULTADOS: 0.6155188800877507
+
+-------------------------------------------------------------

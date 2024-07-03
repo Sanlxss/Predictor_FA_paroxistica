@@ -1,0 +1,158 @@
+EXPERIMENTO: 9014_combinacion_5		 Prueba
+-------------------------------------------------------------
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 9014_combinacion_5COMBINACION: 5
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+		 Prueba
+-------------------------------------------------------------
+AUC: 0.8770336587845295
+Accuracy: 0.7177835051546392
+F1-score: 0.6861912985788596
+Matriz Confusion: 
+[[1057   68    9]
+ [  56  507   68]
+ [  72  384  107]]
+Precisión: 0.718427821745895
+Recall: 0.7177835051546392
+Average precision score: 0.5496455952658975
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 9014_combinacion_5COMBINACION: 5
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+		 Prueba
+-------------------------------------------------------------
+AUC: 0.8294817743962524
+Accuracy: 0.6512027491408935
+F1-score: 0.6407642710805178
+Matriz Confusion: 
+[[906 166  62]
+ [ 75 464  92]
+ [ 87 330 146]]
+Precisión: 0.661926731405331
+Recall: 0.6512027491408935
+Average precision score: 0.5027235964885589
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 9014_combinacion_5COMBINACION: 5
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+		 Prueba
+-------------------------------------------------------------
+AUC: 0.8716083578115424
+Accuracy: 0.7070446735395189
+F1-score: 0.6920262051682271
+Matriz Confusion: 
+[[1019   85   30]
+ [  48  473  110]
+ [  68  341  154]]
+Precisión: 0.706615722857677
+Recall: 0.7070446735395189
+Average precision score: 0.5457943077960812
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 9014_combinacion_5COMBINACION: 5
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+		 Prueba
+-------------------------------------------------------------
+AUC: 0.8297738324266432
+Accuracy: 0.6524914089347079
+F1-score: 0.635901011928766
+Matriz Confusion: 
+[[933 155  46]
+ [ 94 455  82]
+ [100 332 131]]
+Precisión: 0.6565025888040545
+Recall: 0.6524914089347079
+Average precision score: 0.4982042113545864
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 9014_combinacion_5COMBINACION: 5
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+		 Prueba
+-------------------------------------------------------------
+AUC: 0.6768953605538832
+Accuracy: 0.5309278350515464
+F1-score: 0.5024171464344465
+Matriz Confusion: 
+[[871 230  33]
+ [297 280  54]
+ [194 284  85]]
+Precisión: 0.5266063008903877
+Recall: 0.5309278350515464
+Average precision score: 0.39711723004716787
+
+
+-----------------------------------------
+NUEVO CONJUNTO DE PARAMETROS
+EXPERIMENTO: 9014_combinacion_5COMBINACION: 5
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+		 Prueba
+-------------------------------------------------------------
+AUC: 0.8535292099518555
+Accuracy: 0.688573883161512
+F1-score: 0.6675203058054757
+Matriz Confusion: 
+[[1039   58   37]
+ [ 119  407  105]
+ [ 118  288  157]]
+Precisión: 0.6701267674673508
+Recall: 0.688573883161512
+Average precision score: 0.5175104781991187

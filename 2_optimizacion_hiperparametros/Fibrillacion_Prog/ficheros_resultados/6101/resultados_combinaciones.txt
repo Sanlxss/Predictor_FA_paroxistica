@@ -1,0 +1,54 @@
+COMBINACION: 8
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 50
+batch_size: 25
+rec_dims: 50
+rec_layers: 5
+gen_layers: 7
+units: 300
+gru_units: 400
+
+-------------------------------------------------------------
+FOLD: 0
+RESULTADOS: 0.6659682775826208
+FOLD: 1
+RESULTADOS: 0.634777200128457
+FOLD: 2
+RESULTADOS: 0.5538072855519729
+FOLD: 3
+RESULTADOS: 0.6273446176114003
+FOLD: 4
+RESULTADOS: 0.49364731167209513
+FOLD: 5
+RESULTADOS: 0.6443901603206273
+
+-------------------------------------------------------------
+COMBINACION: 9
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 25
+batch_size: 75
+rec_dims: 50
+rec_layers: 5
+gen_layers: 20
+units: 300
+gru_units: 200
+
+-------------------------------------------------------------
+FOLD: 0
+RESULTADOS: 0.6731732432713541
+FOLD: 1
+RESULTADOS: 0.3432548935625127
+FOLD: 2
+RESULTADOS: 0.6726034633749393
+FOLD: 3
+RESULTADOS: 0.6929789012200429
+FOLD: 4
+RESULTADOS: 0.6474650449373311
+FOLD: 5
+RESULTADOS: 0.6851090354340998
+
+-------------------------------------------------------------

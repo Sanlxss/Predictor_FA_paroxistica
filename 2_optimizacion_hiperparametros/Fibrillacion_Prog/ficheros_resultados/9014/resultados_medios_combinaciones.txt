@@ -1,0 +1,49 @@
+COMBINACION: 5
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 15
+batch_size: 25
+rec_dims: 50
+rec_layers: 7
+gen_layers: 3
+units: 400
+gru_units: 500
+
+-------------------------------------------------------------
+MEDIA RESULTADOS: 0.6374700398327154
+
+-------------------------------------------------------------
+COMBINACION: 6
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 100
+batch_size: 10
+rec_dims: 70
+rec_layers: 5
+gen_layers: 3
+units: 200
+gru_units: 100
+
+-------------------------------------------------------------
+MEDIA RESULTADOS: 0.6129111031122733
+
+-------------------------------------------------------------
+COMBINACION: 7
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 100
+batch_size: 15
+rec_dims: 10
+rec_layers: 7
+gen_layers: 20
+units: 400
+gru_units: 200
+
+-------------------------------------------------------------
+MEDIA RESULTADOS: 0.6656635906776713
+
+-------------------------------------------------------------
+

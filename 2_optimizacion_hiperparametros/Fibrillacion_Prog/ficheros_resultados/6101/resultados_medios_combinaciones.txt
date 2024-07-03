@@ -1,0 +1,32 @@
+COMBINACION: 8
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 50
+batch_size: 25
+rec_dims: 50
+rec_layers: 5
+gen_layers: 7
+units: 300
+gru_units: 400
+
+-------------------------------------------------------------
+MEDIA RESULTADOS: 0.6033224754778622
+
+-------------------------------------------------------------
+COMBINACION: 9
+
+----------HIPERPARAMETROS------------------
+niters: 10
+latent_size: 25
+batch_size: 75
+rec_dims: 50
+rec_layers: 5
+gen_layers: 20
+units: 300
+gru_units: 200
+
+-------------------------------------------------------------
+MEDIA RESULTADOS: 0.6190974303000467
+
+-------------------------------------------------------------
