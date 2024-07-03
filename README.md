@@ -46,32 +46,3 @@ En el fichero `run_models.py`, en la línea 87, se encuentran los comandos para 
 
 ### Validación del Modelo
 En el fichero `run_models.py`, en la línea 86, se encuentran los comandos para el entrenamiento del modelo. Comentar la siguiente que es la asociada a la de entrenamiento
-
-
-## Estructura de Directorios
-
-```plaintext
-.
-├── Fibrillation_Prog_Binario
-│   ├── LICENSE
-│   ├── README.md
-│   ├── __pycache__
-│   │   ├── fibrillation.cpython-311.pyc
-│   │   ├── ...
-│   ├── fibrillation.py
-│   ├── lib
-│   │   ├── __pycache__
-│   │   │   ├── base_models.cpython-310.pyc
-│   │   │   ├── ...
-│   │   ├── base_models.py
-│   │   ├── create_latent_ode_model.py
-│   │   ├── diffeq_solver.py
-│   │   ├── encoder_decoder.py
-│   │   ├── latent_ode.py
-│   │   ├── likelihood_eval.py
-│   │   ├── ode_func.py
-│   │   ├── parse_datasets.py
-│   │   ├── plotting.py
-│   │   ├── utils.py
-│   ├── run_models.py
-├── requirements.txt
