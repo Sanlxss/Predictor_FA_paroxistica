@@ -510,7 +510,7 @@ if __name__ == '__main__':
 
     ###############################
 	#Creamos el conjunto de características Inicial
-    rutaBD = '../BD_pacientes_FINAL/BD_COMPLETA_pruebasPEQ/'
+    rutaBD = '../BD_pacientes_FINAL/BD_COMPLETA/'
     
     selected_features = [0, 1, 8, 22, 30, 59, 70, 97, 220, 439, 474, 476]
 
