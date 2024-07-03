@@ -528,7 +528,7 @@ if __name__ == '__main__':
 
     fold_ejecucion = 0
     n_folds = 6
-    max_features = 14
+    max_features = 19
     max_add_sprint = 5
     reduc_fetures_num = 3
     ####################################
