@@ -1,0 +1,1202 @@
+EXPERIMENTO: 52344		 EPOCA 0
+-------------------------------------------------------------
+	##########################################
+Epoch 0001 [Test seq (cond on sampled tp)] | Loss 57.537476 | Likelihood -30.712027 | KL fp 3.8625 | FP STD 0.0229|
+KL coef: 0.0
+Train loss (one batch): 65.41197967529297
+Train CE loss (one batch): 0.4523310363292694
+Classification AUC (TEST): 0.7825
+Test MSE: 0.0069
+Poisson likelihood: 0.0
+CE loss: 0.27924346923828125
+	##########################################
+		 EPOCA 1
+-------------------------------------------------------------
+	##########################################
+Epoch 0002 [Test seq (cond on sampled tp)] | Loss 42.116859 | Likelihood -17.364986 | KL fp 4.1427 | FP STD 0.0180|
+KL coef: 0.0
+Train loss (one batch): 57.364463806152344
+Train CE loss (one batch): 0.41625651717185974
+Classification AUC (TEST): 0.8072
+Test MSE: 0.0042
+Poisson likelihood: 0.0
+CE loss: 0.2585088312625885
+	##########################################
+		 EPOCA 2
+-------------------------------------------------------------
+	##########################################
+Epoch 0003 [Test seq (cond on sampled tp)] | Loss 36.423019 | Likelihood -12.430187 | KL fp 4.5922 | FP STD 0.0118|
+KL coef: 0.0
+Train loss (one batch): 52.65910720825195
+Train CE loss (one batch): 0.39277052879333496
+Classification AUC (TEST): 0.8162
+Test MSE: 0.0032
+Poisson likelihood: 0.0
+CE loss: 0.25091487169265747
+	##########################################
+		 EPOCA 3
+-------------------------------------------------------------
+	##########################################
+Epoch 0004 [Test seq (cond on sampled tp)] | Loss 34.325493 | Likelihood -10.986030 | KL fp 4.5893 | FP STD 0.0116|
+KL coef: 0.0
+Train loss (one batch): 50.14018249511719
+Train CE loss (one batch): 0.3749488294124603
+Classification AUC (TEST): 0.8234
+Test MSE: 0.0029
+Poisson likelihood: 0.0
+CE loss: 0.244380921125412
+	##########################################
+		 EPOCA 4
+-------------------------------------------------------------
+	##########################################
+Epoch 0005 [Test seq (cond on sampled tp)] | Loss 33.121326 | Likelihood -10.252528 | KL fp 4.5089 | FP STD 0.0123|
+KL coef: 0.0
+Train loss (one batch): 47.43172836303711
+Train CE loss (one batch): 0.35249006748199463
+Classification AUC (TEST): 0.8309
+Test MSE: 0.0028
+Poisson likelihood: 0.0
+CE loss: 0.23967412114143372
+	##########################################
+		 EPOCA 5
+-------------------------------------------------------------
+	##########################################
+Epoch 0006 [Test seq (cond on sampled tp)] | Loss 31.427664 | Likelihood -9.720945 | KL fp 4.5181 | FP STD 0.0121|
+KL coef: 0.0
+Train loss (one batch): 43.14746856689453
+Train CE loss (one batch): 0.31266292929649353
+Classification AUC (TEST): 0.8452
+Test MSE: 0.0027
+Poisson likelihood: 0.0
+CE loss: 0.22805532813072205
+	##########################################
+		 EPOCA 6
+-------------------------------------------------------------
+	##########################################
+Epoch 0007 [Test seq (cond on sampled tp)] | Loss 29.677610 | Likelihood -9.555343 | KL fp 4.5275 | FP STD 0.0118|
+KL coef: 0.0
+Train loss (one batch): 34.3300666809082
+Train CE loss (one batch): 0.22305989265441895
+Classification AUC (TEST): 0.8546
+Test MSE: 0.0026
+Poisson likelihood: 0.0
+CE loss: 0.21220892667770386
+	##########################################
+		 EPOCA 7
+-------------------------------------------------------------
+	##########################################
+Epoch 0008 [Test seq (cond on sampled tp)] | Loss 28.956423 | Likelihood -9.449347 | KL fp 4.3097 | FP STD 0.0148|
+KL coef: 0.0
+Train loss (one batch): 34.82560348510742
+Train CE loss (one batch): 0.22663217782974243
+Classification AUC (TEST): 0.8567
+Test MSE: 0.0026
+Poisson likelihood: 0.0
+CE loss: 0.2060600221157074
+	##########################################
+		 EPOCA 8
+-------------------------------------------------------------
+	##########################################
+Epoch 0009 [Test seq (cond on sampled tp)] | Loss 29.165497 | Likelihood -9.086206 | KL fp 4.3316 | FP STD 0.0145|
+KL coef: 0.0
+Train loss (one batch): 31.98973846435547
+Train CE loss (one batch): 0.20254531502723694
+Classification AUC (TEST): 0.8505
+Test MSE: 0.0025
+Poisson likelihood: 0.0
+CE loss: 0.2117791622877121
+	##########################################
+		 EPOCA 9
+-------------------------------------------------------------
+	##########################################
+Epoch 0010 [Test seq (cond on sampled tp)] | Loss 26.734009 | Likelihood -8.159584 | KL fp 4.5364 | FP STD 0.0121|
+KL coef: 0.0
+Train loss (one batch): 34.40602493286133
+Train CE loss (one batch): 0.22968219220638275
+Classification AUC (TEST): 0.8651
+Test MSE: 0.0024
+Poisson likelihood: 0.0
+CE loss: 0.19673041999340057
+	##########################################
+		 EPOCA 10
+-------------------------------------------------------------
+	##########################################
+Epoch 0011 [Test seq (cond on sampled tp)] | Loss 25.391006 | Likelihood -7.659637 | KL fp 4.9013 | FP STD 0.0084|
+KL coef: 0.010000000000000009
+Train loss (one batch): 28.232452392578125
+Train CE loss (one batch): 0.169533833861351
+Classification AUC (TEST): 0.8691
+Test MSE: 0.0023
+Poisson likelihood: 0.0
+CE loss: 0.18780973553657532
+	##########################################
+		 EPOCA 11
+-------------------------------------------------------------
+	##########################################
+Epoch 0012 [Test seq (cond on sampled tp)] | Loss 25.868139 | Likelihood -8.027606 | KL fp 4.6554 | FP STD 0.0114|
+KL coef: 0.01990000000000003
+Train loss (one batch): 29.292774200439453
+Train CE loss (one batch): 0.17789237201213837
+Classification AUC (TEST): 0.8682
+Test MSE: 0.0023
+Poisson likelihood: 0.0
+CE loss: 0.18846504390239716
+	##########################################
+		 EPOCA 12
+-------------------------------------------------------------
+	##########################################
+Epoch 0013 [Test seq (cond on sampled tp)] | Loss 25.375298 | Likelihood -8.149897 | KL fp 4.5729 | FP STD 0.0116|
+KL coef: 0.029700999999999977
+Train loss (one batch): 30.08913230895996
+Train CE loss (one batch): 0.1857849359512329
+Classification AUC (TEST): 0.8719
+Test MSE: 0.0024
+Poisson likelihood: 0.0
+CE loss: 0.1818823218345642
+	##########################################
+		 EPOCA 13
+-------------------------------------------------------------
+	##########################################
+Epoch 0014 [Test seq (cond on sampled tp)] | Loss 24.832840 | Likelihood -7.826213 | KL fp 4.5358 | FP STD 0.0123|
+KL coef: 0.039403990000000055
+Train loss (one batch): 30.767349243164062
+Train CE loss (one batch): 0.19180786609649658
+Classification AUC (TEST): 0.8732
+Test MSE: 0.0023
+Poisson likelihood: 0.0
+CE loss: 0.17926573753356934
+	##########################################
+		 EPOCA 14
+-------------------------------------------------------------
+	##########################################
+Epoch 0015 [Test seq (cond on sampled tp)] | Loss 25.122782 | Likelihood -8.240561 | KL fp 4.3638 | FP STD 0.0160|
+KL coef: 0.04900995010000009
+Train loss (one batch): 29.583227157592773
+Train CE loss (one batch): 0.1760663092136383
+Classification AUC (TEST): 0.8745
+Test MSE: 0.0024
+Poisson likelihood: 0.0
+CE loss: 0.17767009139060974
+	##########################################
+		 EPOCA 15
+-------------------------------------------------------------
+	##########################################
+Epoch 0016 [Test seq (cond on sampled tp)] | Loss 24.495079 | Likelihood -7.738546 | KL fp 4.2532 | FP STD 0.0164|
+KL coef: 0.058519850599
+Train loss (one batch): 28.092737197875977
+Train CE loss (one batch): 0.16556525230407715
+Classification AUC (TEST): 0.8760
+Test MSE: 0.0023
+Poisson likelihood: 0.0
+CE loss: 0.17606374621391296
+	##########################################
+		 EPOCA 16
+-------------------------------------------------------------
+	##########################################
+Epoch 0017 [Test seq (cond on sampled tp)] | Loss 24.415426 | Likelihood -7.526227 | KL fp 4.4160 | FP STD 0.0136|
+KL coef: 0.06793465209301008
+Train loss (one batch): 28.53293800354004
+Train CE loss (one batch): 0.17031461000442505
+Classification AUC (TEST): 0.8764
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.17687831819057465
+	##########################################
+		 EPOCA 17
+-------------------------------------------------------------
+	##########################################
+Epoch 0018 [Test seq (cond on sampled tp)] | Loss 24.235775 | Likelihood -7.145145 | KL fp 4.5821 | FP STD 0.0111|
+KL coef: 0.07725530557207994
+Train loss (one batch): 26.381465911865234
+Train CE loss (one batch): 0.1492435485124588
+Classification AUC (TEST): 0.8764
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.17835265398025513
+	##########################################
+		 EPOCA 18
+-------------------------------------------------------------
+	##########################################
+Epoch 0019 [Test seq (cond on sampled tp)] | Loss 24.476967 | Likelihood -7.310637 | KL fp 4.3680 | FP STD 0.0148|
+KL coef: 0.08648275251635917
+Train loss (one batch): 26.68217658996582
+Train CE loss (one batch): 0.15290355682373047
+Classification AUC (TEST): 0.8756
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.17887215316295624
+	##########################################
+		 EPOCA 19
+-------------------------------------------------------------
+	##########################################
+Epoch 0020 [Test seq (cond on sampled tp)] | Loss 24.601305 | Likelihood -8.057253 | KL fp 4.4374 | FP STD 0.0169|
+KL coef: 0.09561792499119559
+Train loss (one batch): 31.468631744384766
+Train CE loss (one batch): 0.19482120871543884
+Classification AUC (TEST): 0.8771
+Test MSE: 0.0023
+Poisson likelihood: 0.0
+CE loss: 0.17218367755413055
+	##########################################
+		 EPOCA 20
+-------------------------------------------------------------
+	##########################################
+Epoch 0021 [Test seq (cond on sampled tp)] | Loss 24.474888 | Likelihood -7.923715 | KL fp 4.1762 | FP STD 0.0195|
+KL coef: 0.10466174574128362
+Train loss (one batch): 31.668251037597656
+Train CE loss (one batch): 0.196020245552063
+Classification AUC (TEST): 0.8771
+Test MSE: 0.0023
+Poisson likelihood: 0.0
+CE loss: 0.17212826013565063
+	##########################################
+		 EPOCA 21
+-------------------------------------------------------------
+	##########################################
+Epoch 0022 [Test seq (cond on sampled tp)] | Loss 23.998718 | Likelihood -7.429754 | KL fp 4.3308 | FP STD 0.0164|
+KL coef: 0.11361512828387077
+Train loss (one batch): 30.245983123779297
+Train CE loss (one batch): 0.1849900484085083
+Classification AUC (TEST): 0.8771
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.17175625264644623
+	##########################################
+		 EPOCA 22
+-------------------------------------------------------------
+	##########################################
+Epoch 0023 [Test seq (cond on sampled tp)] | Loss 23.605736 | Likelihood -7.219793 | KL fp 4.3034 | FP STD 0.0154|
+KL coef: 0.12247897700103216
+Train loss (one batch): 30.440982818603516
+Train CE loss (one batch): 0.1878272294998169
+Classification AUC (TEST): 0.8780
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.16957548260688782
+	##########################################
+		 EPOCA 23
+-------------------------------------------------------------
+	##########################################
+Epoch 0024 [Test seq (cond on sampled tp)] | Loss 23.593365 | Likelihood -7.152441 | KL fp 4.2374 | FP STD 0.0160|
+KL coef: 0.13125418723102178
+Train loss (one batch): 29.645784378051758
+Train CE loss (one batch): 0.18023234605789185
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.1698361486196518
+	##########################################
+		 EPOCA 24
+-------------------------------------------------------------
+	##########################################
+Epoch 0025 [Test seq (cond on sampled tp)] | Loss 23.512541 | Likelihood -7.117664 | KL fp 4.3160 | FP STD 0.0146|
+KL coef: 0.13994164535871156
+Train loss (one batch): 30.333219528198242
+Train CE loss (one batch): 0.1861470639705658
+Classification AUC (TEST): 0.8784
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.16889551281929016
+	##########################################
+		 EPOCA 25
+-------------------------------------------------------------
+	##########################################
+Epoch 0026 [Test seq (cond on sampled tp)] | Loss 23.686020 | Likelihood -7.262083 | KL fp 4.1895 | FP STD 0.0181|
+KL coef: 0.14854222890512447
+Train loss (one batch): 29.258459091186523
+Train CE loss (one batch): 0.17261098325252533
+Classification AUC (TEST): 0.8781
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.16900348663330078
+	##########################################
+		 EPOCA 26
+-------------------------------------------------------------
+	##########################################
+Epoch 0027 [Test seq (cond on sampled tp)] | Loss 23.420084 | Likelihood -7.040583 | KL fp 4.2495 | FP STD 0.0159|
+KL coef: 0.15705680661607324
+Train loss (one batch): 27.48779296875
+Train CE loss (one batch): 0.15806016325950623
+Classification AUC (TEST): 0.8786
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1681070774793625
+	##########################################
+		 EPOCA 27
+-------------------------------------------------------------
+	##########################################
+Epoch 0028 [Test seq (cond on sampled tp)] | Loss 23.379204 | Likelihood -6.942682 | KL fp 4.3170 | FP STD 0.0144|
+KL coef: 0.1654862385499125
+Train loss (one batch): 26.964153289794922
+Train CE loss (one batch): 0.1544114649295807
+Classification AUC (TEST): 0.8786
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1682072877883911
+	##########################################
+		 EPOCA 28
+-------------------------------------------------------------
+	##########################################
+Epoch 0029 [Test seq (cond on sampled tp)] | Loss 23.594015 | Likelihood -7.011188 | KL fp 4.2774 | FP STD 0.0169|
+KL coef: 0.17383137616441335
+Train loss (one batch): 27.703330993652344
+Train CE loss (one batch): 0.1601349413394928
+Classification AUC (TEST): 0.8781
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16937923431396484
+	##########################################
+		 EPOCA 29
+-------------------------------------------------------------
+	##########################################
+Epoch 0030 [Test seq (cond on sampled tp)] | Loss 23.568377 | Likelihood -6.943950 | KL fp 4.2386 | FP STD 0.0171|
+KL coef: 0.18209306240276923
+Train loss (one batch): 28.909564971923828
+Train CE loss (one batch): 0.17160078883171082
+Classification AUC (TEST): 0.8782
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16951249539852142
+	##########################################
+		 EPOCA 30
+-------------------------------------------------------------
+	##########################################
+Epoch 0031 [Test seq (cond on sampled tp)] | Loss 23.413628 | Likelihood -6.848455 | KL fp 4.2925 | FP STD 0.0157|
+KL coef: 0.19027213177874158
+Train loss (one batch): 27.687782287597656
+Train CE loss (one batch): 0.15992245078086853
+Classification AUC (TEST): 0.8786
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16847088932991028
+	##########################################
+		 EPOCA 31
+-------------------------------------------------------------
+	##########################################
+Epoch 0032 [Test seq (cond on sampled tp)] | Loss 23.472008 | Likelihood -6.855232 | KL fp 4.1640 | FP STD 0.0171|
+KL coef: 0.19836941046095413
+Train loss (one batch): 27.197914123535156
+Train CE loss (one batch): 0.15458254516124725
+Classification AUC (TEST): 0.8784
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16889390349388123
+	##########################################
+		 EPOCA 32
+-------------------------------------------------------------
+	##########################################
+Epoch 0033 [Test seq (cond on sampled tp)] | Loss 23.383072 | Likelihood -6.791920 | KL fp 4.2009 | FP STD 0.0162|
+KL coef: 0.20638571635634462
+Train loss (one batch): 27.230411529541016
+Train CE loss (one batch): 0.15559476613998413
+Classification AUC (TEST): 0.8787
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1682276427745819
+	##########################################
+		 EPOCA 33
+-------------------------------------------------------------
+	##########################################
+Epoch 0034 [Test seq (cond on sampled tp)] | Loss 23.378593 | Likelihood -6.713398 | KL fp 4.2079 | FP STD 0.0159|
+KL coef: 0.21432185919278124
+Train loss (one batch): 27.32648468017578
+Train CE loss (one batch): 0.15631137788295746
+Classification AUC (TEST): 0.8785
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1686195433139801
+	##########################################
+		 EPOCA 34
+-------------------------------------------------------------
+	##########################################
+Epoch 0035 [Test seq (cond on sampled tp)] | Loss 24.281982 | Likelihood -7.515249 | KL fp 4.0759 | FP STD 0.0212|
+KL coef: 0.22217864060085335
+Train loss (one batch): 28.173175811767578
+Train CE loss (one batch): 0.15532758831977844
+Classification AUC (TEST): 0.8781
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.16960559785366058
+	##########################################
+		 EPOCA 35
+-------------------------------------------------------------
+	##########################################
+Epoch 0036 [Test seq (cond on sampled tp)] | Loss 23.879272 | Likelihood -7.214780 | KL fp 4.1413 | FP STD 0.0194|
+KL coef: 0.2299568541948449
+Train loss (one batch): 26.751379013061523
+Train CE loss (one batch): 0.14539390802383423
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.1681096851825714
+	##########################################
+		 EPOCA 36
+-------------------------------------------------------------
+	##########################################
+Epoch 0037 [Test seq (cond on sampled tp)] | Loss 23.753651 | Likelihood -7.083026 | KL fp 4.1010 | FP STD 0.0199|
+KL coef: 0.23765728565289646
+Train loss (one batch): 27.561649322509766
+Train CE loss (one batch): 0.1535286009311676
+Classification AUC (TEST): 0.8790
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1679469794034958
+	##########################################
+		 EPOCA 37
+-------------------------------------------------------------
+	##########################################
+Epoch 0038 [Test seq (cond on sampled tp)] | Loss 23.622284 | Likelihood -6.957422 | KL fp 4.0891 | FP STD 0.0195|
+KL coef: 0.24528071279636743
+Train loss (one batch): 26.446720123291016
+Train CE loss (one batch): 0.14507991075515747
+Classification AUC (TEST): 0.8792
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1676049530506134
+	##########################################
+		 EPOCA 38
+-------------------------------------------------------------
+	##########################################
+Epoch 0039 [Test seq (cond on sampled tp)] | Loss 23.599674 | Likelihood -6.866849 | KL fp 4.1420 | FP STD 0.0184|
+KL coef: 0.25282790566840385
+Train loss (one batch): 26.464397430419922
+Train CE loss (one batch): 0.1433420479297638
+Classification AUC (TEST): 0.8789
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16784244775772095
+	##########################################
+		 EPOCA 39
+-------------------------------------------------------------
+	##########################################
+Epoch 0040 [Test seq (cond on sampled tp)] | Loss 23.650286 | Likelihood -6.838114 | KL fp 4.1503 | FP STD 0.0185|
+KL coef: 0.2602996266117198
+Train loss (one batch): 28.69625473022461
+Train CE loss (one batch): 0.16623222827911377
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16830496490001678
+	##########################################
+		 EPOCA 40
+-------------------------------------------------------------
+	##########################################
+Epoch 0041 [Test seq (cond on sampled tp)] | Loss 23.650505 | Likelihood -6.869845 | KL fp 4.0260 | FP STD 0.0194|
+KL coef: 0.26769663034560254
+Train loss (one batch): 24.984432220458984
+Train CE loss (one batch): 0.12836647033691406
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16801610589027405
+	##########################################
+		 EPOCA 41
+-------------------------------------------------------------
+	##########################################
+Epoch 0042 [Test seq (cond on sampled tp)] | Loss 23.584085 | Likelihood -6.851404 | KL fp 4.0665 | FP STD 0.0192|
+KL coef: 0.2750196640421466
+Train loss (one batch): 25.86068344116211
+Train CE loss (one batch): 0.13801947236061096
+Classification AUC (TEST): 0.8792
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16712920367717743
+	##########################################
+		 EPOCA 42
+-------------------------------------------------------------
+	##########################################
+Epoch 0043 [Test seq (cond on sampled tp)] | Loss 23.584244 | Likelihood -6.748247 | KL fp 4.1166 | FP STD 0.0182|
+KL coef: 0.2822694674017251
+Train loss (one batch): 25.92266082763672
+Train CE loss (one batch): 0.13896365463733673
+Classification AUC (TEST): 0.8790
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1677263379096985
+	##########################################
+		 EPOCA 43
+-------------------------------------------------------------
+	##########################################
+Epoch 0044 [Test seq (cond on sampled tp)] | Loss 23.812494 | Likelihood -6.894508 | KL fp 3.9050 | FP STD 0.0213|
+KL coef: 0.2894467727277079
+Train loss (one batch): 25.833646774291992
+Train CE loss (one batch): 0.13590791821479797
+Classification AUC (TEST): 0.8785
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16886311769485474
+	##########################################
+		 EPOCA 44
+-------------------------------------------------------------
+	##########################################
+Epoch 0045 [Test seq (cond on sampled tp)] | Loss 23.616785 | Likelihood -6.722654 | KL fp 4.0060 | FP STD 0.0191|
+KL coef: 0.29655230500043084
+Train loss (one batch): 26.74317169189453
+Train CE loss (one batch): 0.14735248684883118
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16804760694503784
+	##########################################
+		 EPOCA 45
+-------------------------------------------------------------
+	##########################################
+Epoch 0046 [Test seq (cond on sampled tp)] | Loss 23.601376 | Likelihood -6.617278 | KL fp 4.1224 | FP STD 0.0173|
+KL coef: 0.30358678195042654
+Train loss (one batch): 26.5150146484375
+Train CE loss (one batch): 0.14606556296348572
+Classification AUC (TEST): 0.8789
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.16831201314926147
+	##########################################
+		 EPOCA 46
+-------------------------------------------------------------
+	##########################################
+Epoch 0047 [Test seq (cond on sampled tp)] | Loss 23.576099 | Likelihood -6.616147 | KL fp 4.0506 | FP STD 0.0183|
+KL coef: 0.3105509141309223
+Train loss (one batch): 26.187763214111328
+Train CE loss (one batch): 0.14102748036384583
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.16800656914710999
+	##########################################
+		 EPOCA 47
+-------------------------------------------------------------
+	##########################################
+Epoch 0048 [Test seq (cond on sampled tp)] | Loss 23.683271 | Likelihood -6.657304 | KL fp 3.9861 | FP STD 0.0193|
+KL coef: 0.31744540498961304
+Train loss (one batch): 25.782466888427734
+Train CE loss (one batch): 0.13732127845287323
+Classification AUC (TEST): 0.8785
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16859231889247894
+	##########################################
+		 EPOCA 48
+-------------------------------------------------------------
+	##########################################
+Epoch 0049 [Test seq (cond on sampled tp)] | Loss 23.642368 | Likelihood -6.639803 | KL fp 4.0321 | FP STD 0.0185|
+KL coef: 0.3242709509397169
+Train loss (one batch): 27.01577377319336
+Train CE loss (one batch): 0.14976878464221954
+Classification AUC (TEST): 0.8790
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1679370105266571
+	##########################################
+		 EPOCA 49
+-------------------------------------------------------------
+	##########################################
+Epoch 0050 [Test seq (cond on sampled tp)] | Loss 24.074127 | Likelihood -6.951190 | KL fp 3.8750 | FP STD 0.0230|
+KL coef: 0.3310282414303197
+Train loss (one batch): 27.354705810546875
+Train CE loss (one batch): 0.14825549721717834
+Classification AUC (TEST): 0.8783
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16938844323158264
+	##########################################
+		 EPOCA 50
+-------------------------------------------------------------
+	##########################################
+Epoch 0051 [Test seq (cond on sampled tp)] | Loss 23.856865 | Likelihood -6.753959 | KL fp 3.9250 | FP STD 0.0211|
+KL coef: 0.33771795901601653
+Train loss (one batch): 26.49053382873535
+Train CE loss (one batch): 0.1438283771276474
+Classification AUC (TEST): 0.8787
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16875970363616943
+	##########################################
+		 EPOCA 51
+-------------------------------------------------------------
+	##########################################
+Epoch 0052 [Test seq (cond on sampled tp)] | Loss 23.815521 | Likelihood -6.656749 | KL fp 3.9380 | FP STD 0.0200|
+KL coef: 0.3443407794258564
+Train loss (one batch): 26.722023010253906
+Train CE loss (one batch): 0.1467556655406952
+Classification AUC (TEST): 0.8786
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16901366412639618
+	##########################################
+		 EPOCA 52
+-------------------------------------------------------------
+	##########################################
+Epoch 0053 [Test seq (cond on sampled tp)] | Loss 23.876715 | Likelihood -6.755786 | KL fp 3.8687 | FP STD 0.0212|
+KL coef: 0.35089737163159784
+Train loss (one batch): 27.447246551513672
+Train CE loss (one batch): 0.15188336372375488
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16862067580223083
+	##########################################
+		 EPOCA 53
+-------------------------------------------------------------
+	##########################################
+Epoch 0054 [Test seq (cond on sampled tp)] | Loss 23.799927 | Likelihood -6.657574 | KL fp 3.8961 | FP STD 0.0202|
+KL coef: 0.3573883979152819
+Train loss (one batch): 25.30768585205078
+Train CE loss (one batch): 0.1315321922302246
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16848574578762054
+	##########################################
+		 EPOCA 54
+-------------------------------------------------------------
+	##########################################
+Epoch 0055 [Test seq (cond on sampled tp)] | Loss 23.843834 | Likelihood -6.629897 | KL fp 4.0048 | FP STD 0.0190|
+KL coef: 0.36381451393612907
+Train loss (one batch): 25.368499755859375
+Train CE loss (one batch): 0.13183915615081787
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16855579614639282
+	##########################################
+		 EPOCA 55
+-------------------------------------------------------------
+	##########################################
+Epoch 0056 [Test seq (cond on sampled tp)] | Loss 23.845579 | Likelihood -6.550318 | KL fp 4.0778 | FP STD 0.0177|
+KL coef: 0.37017636879676774
+Train loss (one batch): 26.69956398010254
+Train CE loss (one batch): 0.14562192559242249
+Classification AUC (TEST): 0.8787
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.1688438057899475
+	##########################################
+		 EPOCA 56
+-------------------------------------------------------------
+	##########################################
+Epoch 0057 [Test seq (cond on sampled tp)] | Loss 23.773401 | Likelihood -6.528362 | KL fp 4.0400 | FP STD 0.0177|
+KL coef: 0.37647460510880004
+Train loss (one batch): 25.760059356689453
+Train CE loss (one batch): 0.13566449284553528
+Classification AUC (TEST): 0.8790
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.168226957321167
+	##########################################
+		 EPOCA 57
+-------------------------------------------------------------
+	##########################################
+Epoch 0058 [Test seq (cond on sampled tp)] | Loss 23.869381 | Likelihood -6.624158 | KL fp 3.9292 | FP STD 0.0206|
+KL coef: 0.38270985905771204
+Train loss (one batch): 25.341529846191406
+Train CE loss (one batch): 0.1308327615261078
+Classification AUC (TEST): 0.8790
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16840188205242157
+	##########################################
+		 EPOCA 58
+-------------------------------------------------------------
+	##########################################
+Epoch 0059 [Test seq (cond on sampled tp)] | Loss 24.076170 | Likelihood -6.850506 | KL fp 3.7323 | FP STD 0.0250|
+KL coef: 0.388882760467135
+Train loss (one batch): 28.280290603637695
+Train CE loss (one batch): 0.15851885080337524
+Classification AUC (TEST): 0.8787
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16872850060462952
+	##########################################
+		 EPOCA 59
+-------------------------------------------------------------
+	##########################################
+Epoch 0060 [Test seq (cond on sampled tp)] | Loss 23.919344 | Likelihood -6.723518 | KL fp 3.7268 | FP STD 0.0236|
+KL coef: 0.39499393286246365
+Train loss (one batch): 25.533267974853516
+Train CE loss (one batch): 0.13144055008888245
+Classification AUC (TEST): 0.8791
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16822463274002075
+	##########################################
+		 EPOCA 60
+-------------------------------------------------------------
+	##########################################
+Epoch 0061 [Test seq (cond on sampled tp)] | Loss 24.071873 | Likelihood -6.709729 | KL fp 3.8351 | FP STD 0.0229|
+KL coef: 0.401043993533839
+Train loss (one batch): 25.206226348876953
+Train CE loss (one batch): 0.12758785486221313
+Classification AUC (TEST): 0.8785
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16922742128372192
+	##########################################
+		 EPOCA 61
+-------------------------------------------------------------
+	##########################################
+Epoch 0062 [Test seq (cond on sampled tp)] | Loss 23.958935 | Likelihood -6.593868 | KL fp 3.8888 | FP STD 0.0217|
+KL coef: 0.4070335535985006
+Train loss (one batch): 25.645984649658203
+Train CE loss (one batch): 0.13304483890533447
+Classification AUC (TEST): 0.8786
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.1688087433576584
+	##########################################
+		 EPOCA 62
+-------------------------------------------------------------
+	##########################################
+Epoch 0063 [Test seq (cond on sampled tp)] | Loss 24.244816 | Likelihood -6.711628 | KL fp 3.9100 | FP STD 0.0231|
+KL coef: 0.41296321806251557
+Train loss (one batch): 26.134441375732422
+Train CE loss (one batch): 0.136142760515213
+Classification AUC (TEST): 0.8783
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17017242312431335
+	##########################################
+		 EPOCA 63
+-------------------------------------------------------------
+	##########################################
+Epoch 0064 [Test seq (cond on sampled tp)] | Loss 24.212059 | Likelihood -6.715584 | KL fp 3.7325 | FP STD 0.0248|
+KL coef: 0.41883358588189046
+Train loss (one batch): 26.012367248535156
+Train CE loss (one batch): 0.13680003583431244
+Classification AUC (TEST): 0.8780
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1703183650970459
+	##########################################
+		 EPOCA 64
+-------------------------------------------------------------
+	##########################################
+Epoch 0065 [Test seq (cond on sampled tp)] | Loss 24.380894 | Likelihood -6.939784 | KL fp 3.6842 | FP STD 0.0258|
+KL coef: 0.4246452500230715
+Train loss (one batch): 25.030174255371094
+Train CE loss (one batch): 0.12435339391231537
+Classification AUC (TEST): 0.8787
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16975390911102295
+	##########################################
+		 EPOCA 65
+-------------------------------------------------------------
+	##########################################
+Epoch 0066 [Test seq (cond on sampled tp)] | Loss 23.996231 | Likelihood -6.560499 | KL fp 3.8945 | FP STD 0.0208|
+KL coef: 0.4303987975228408
+Train loss (one batch): 26.902908325195312
+Train CE loss (one batch): 0.14512334764003754
+Classification AUC (TEST): 0.8792
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.16858264803886414
+	##########################################
+		 EPOCA 66
+-------------------------------------------------------------
+	##########################################
+Epoch 0067 [Test seq (cond on sampled tp)] | Loss 24.460510 | Likelihood -6.646200 | KL fp 3.8288 | FP STD 0.0244|
+KL coef: 0.4360948095476125
+Train loss (one batch): 26.849159240722656
+Train CE loss (one batch): 0.14461413025856018
+Classification AUC (TEST): 0.8777
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17243388295173645
+	##########################################
+		 EPOCA 67
+-------------------------------------------------------------
+	##########################################
+Epoch 0068 [Test seq (cond on sampled tp)] | Loss 25.026073 | Likelihood -7.248384 | KL fp 3.5710 | FP STD 0.0317|
+KL coef: 0.44173386145213633
+Train loss (one batch): 27.353778839111328
+Train CE loss (one batch): 0.1448664665222168
+Classification AUC (TEST): 0.8772
+Test MSE: 0.0022
+Poisson likelihood: 0.0
+CE loss: 0.1729898452758789
+	##########################################
+		 EPOCA 68
+-------------------------------------------------------------
+	##########################################
+Epoch 0069 [Test seq (cond on sampled tp)] | Loss 24.822500 | Likelihood -7.103826 | KL fp 3.6399 | FP STD 0.0305|
+KL coef: 0.4473165228376149
+Train loss (one batch): 24.128803253173828
+Train CE loss (one batch): 0.11294873803853989
+Classification AUC (TEST): 0.8773
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17189258337020874
+	##########################################
+		 EPOCA 69
+-------------------------------------------------------------
+	##########################################
+Epoch 0070 [Test seq (cond on sampled tp)] | Loss 24.608763 | Likelihood -6.965324 | KL fp 3.6285 | FP STD 0.0295|
+KL coef: 0.4528433576092388
+Train loss (one batch): 26.3956356048584
+Train CE loss (one batch): 0.13496088981628418
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17098963260650635
+	##########################################
+		 EPOCA 70
+-------------------------------------------------------------
+	##########################################
+Epoch 0071 [Test seq (cond on sampled tp)] | Loss 24.564133 | Likelihood -6.891373 | KL fp 3.6470 | FP STD 0.0283|
+KL coef: 0.45831492403314644
+Train loss (one batch): 24.88166046142578
+Train CE loss (one batch): 0.12457116693258286
+Classification AUC (TEST): 0.8782
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17099958658218384
+	##########################################
+		 EPOCA 71
+-------------------------------------------------------------
+	##########################################
+Epoch 0072 [Test seq (cond on sampled tp)] | Loss 24.598564 | Likelihood -6.819003 | KL fp 3.6540 | FP STD 0.0282|
+KL coef: 0.463731774792815
+Train loss (one batch): 25.28668975830078
+Train CE loss (one batch): 0.12888652086257935
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17183779180049896
+	##########################################
+		 EPOCA 72
+-------------------------------------------------------------
+	##########################################
+Epoch 0073 [Test seq (cond on sampled tp)] | Loss 24.616262 | Likelihood -7.018730 | KL fp 3.5507 | FP STD 0.0307|
+KL coef: 0.46909445704488684
+Train loss (one batch): 25.905155181884766
+Train CE loss (one batch): 0.1283300369977951
+Classification AUC (TEST): 0.8784
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17030619084835052
+	##########################################
+		 EPOCA 73
+-------------------------------------------------------------
+	##########################################
+Epoch 0074 [Test seq (cond on sampled tp)] | Loss 24.585693 | Likelihood -6.856547 | KL fp 3.6015 | FP STD 0.0298|
+KL coef: 0.474403512474438
+Train loss (one batch): 26.412593841552734
+Train CE loss (one batch): 0.13825932145118713
+Classification AUC (TEST): 0.8780
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17119354009628296
+	##########################################
+		 EPOCA 74
+-------------------------------------------------------------
+	##########################################
+Epoch 0075 [Test seq (cond on sampled tp)] | Loss 24.752769 | Likelihood -6.998458 | KL fp 3.4879 | FP STD 0.0310|
+KL coef: 0.4796594773496936
+Train loss (one batch): 25.80545425415039
+Train CE loss (one batch): 0.13049852848052979
+Classification AUC (TEST): 0.8779
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17180600762367249
+	##########################################
+		 EPOCA 75
+-------------------------------------------------------------
+	##########################################
+Epoch 0076 [Test seq (cond on sampled tp)] | Loss 24.462963 | Likelihood -6.837597 | KL fp 3.5869 | FP STD 0.0286|
+KL coef: 0.4848628825761967
+Train loss (one batch): 23.91940689086914
+Train CE loss (one batch): 0.11331140995025635
+Classification AUC (TEST): 0.8787
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1698492169380188
+	##########################################
+		 EPOCA 76
+-------------------------------------------------------------
+	##########################################
+Epoch 0077 [Test seq (cond on sampled tp)] | Loss 24.642572 | Likelihood -6.757398 | KL fp 3.6237 | FP STD 0.0275|
+KL coef: 0.4900142537504347
+Train loss (one batch): 24.92371368408203
+Train CE loss (one batch): 0.12478327006101608
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1720820516347885
+	##########################################
+		 EPOCA 77
+-------------------------------------------------------------
+	##########################################
+Epoch 0078 [Test seq (cond on sampled tp)] | Loss 24.359447 | Likelihood -6.639822 | KL fp 3.7516 | FP STD 0.0256|
+KL coef: 0.49511411121293036
+Train loss (one batch): 24.44352149963379
+Train CE loss (one batch): 0.11902622878551483
+Classification AUC (TEST): 0.8788
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.16960933804512024
+	##########################################
+		 EPOCA 78
+-------------------------------------------------------------
+	##########################################
+Epoch 0079 [Test seq (cond on sampled tp)] | Loss 24.359436 | Likelihood -6.596276 | KL fp 3.7032 | FP STD 0.0258|
+KL coef: 0.500162970100801
+Train loss (one batch): 24.17581558227539
+Train CE loss (one batch): 0.11828090995550156
+Classification AUC (TEST): 0.8786
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.170096755027771
+	##########################################
+		 EPOCA 79
+-------------------------------------------------------------
+	##########################################
+Epoch 0080 [Test seq (cond on sampled tp)] | Loss 24.524555 | Likelihood -6.599335 | KL fp 3.7171 | FP STD 0.0254|
+KL coef: 0.505161340399793
+Train loss (one batch): 23.65878677368164
+Train CE loss (one batch): 0.11386747658252716
+Classification AUC (TEST): 0.8781
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17146307229995728
+	##########################################
+		 EPOCA 80
+-------------------------------------------------------------
+	##########################################
+Epoch 0081 [Test seq (cond on sampled tp)] | Loss 24.372799 | Likelihood -6.484915 | KL fp 3.7935 | FP STD 0.0239|
+KL coef: 0.510109726995795
+Train loss (one batch): 24.02841567993164
+Train CE loss (one batch): 0.11704452335834503
+Classification AUC (TEST): 0.8784
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17051421105861664
+	##########################################
+		 EPOCA 81
+-------------------------------------------------------------
+	##########################################
+Epoch 0082 [Test seq (cond on sampled tp)] | Loss 24.688360 | Likelihood -6.671314 | KL fp 3.7389 | FP STD 0.0278|
+KL coef: 0.5150086297258372
+Train loss (one batch): 25.22372055053711
+Train CE loss (one batch): 0.12770728766918182
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17190095782279968
+	##########################################
+		 EPOCA 82
+-------------------------------------------------------------
+	##########################################
+Epoch 0083 [Test seq (cond on sampled tp)] | Loss 24.667377 | Likelihood -6.643079 | KL fp 3.6728 | FP STD 0.0294|
+KL coef: 0.5198585434285787
+Train loss (one batch): 23.140710830688477
+Train CE loss (one batch): 0.10864655673503876
+Classification AUC (TEST): 0.8779
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1721363067626953
+	##########################################
+		 EPOCA 83
+-------------------------------------------------------------
+	##########################################
+Epoch 0084 [Test seq (cond on sampled tp)] | Loss 24.720371 | Likelihood -6.687240 | KL fp 3.6583 | FP STD 0.0304|
+KL coef: 0.524659957994293
+Train loss (one batch): 24.51557159423828
+Train CE loss (one batch): 0.1215541660785675
+Classification AUC (TEST): 0.8782
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17212611436843872
+	##########################################
+		 EPOCA 84
+-------------------------------------------------------------
+	##########################################
+Epoch 0085 [Test seq (cond on sampled tp)] | Loss 24.658459 | Likelihood -6.633811 | KL fp 3.6268 | FP STD 0.0299|
+KL coef: 0.5294133584143501
+Train loss (one batch): 23.74321937561035
+Train CE loss (one batch): 0.11444996297359467
+Classification AUC (TEST): 0.8780
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17203299701213837
+	##########################################
+		 EPOCA 85
+-------------------------------------------------------------
+	##########################################
+Epoch 0086 [Test seq (cond on sampled tp)] | Loss 24.920813 | Likelihood -6.791948 | KL fp 3.6628 | FP STD 0.0306|
+KL coef: 0.5341192248302067
+Train loss (one batch): 25.38023567199707
+Train CE loss (one batch): 0.12581861019134521
+Classification AUC (TEST): 0.8776
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17271219193935394
+	##########################################
+		 EPOCA 86
+-------------------------------------------------------------
+	##########################################
+Epoch 0087 [Test seq (cond on sampled tp)] | Loss 24.718935 | Likelihood -6.654263 | KL fp 3.5564 | FP STD 0.0313|
+KL coef: 0.5387780325819045
+Train loss (one batch): 23.90503692626953
+Train CE loss (one batch): 0.1163555309176445
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.17247192561626434
+	##########################################
+		 EPOCA 87
+-------------------------------------------------------------
+	##########################################
+Epoch 0088 [Test seq (cond on sampled tp)] | Loss 24.685965 | Likelihood -6.634569 | KL fp 3.6057 | FP STD 0.0309|
+KL coef: 0.5433902522560855
+Train loss (one batch): 24.3365478515625
+Train CE loss (one batch): 0.11867676675319672
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0021
+Poisson likelihood: 0.0
+CE loss: 0.1719071865081787
+	##########################################
+		 EPOCA 88
+-------------------------------------------------------------
+	##########################################
+Epoch 0089 [Test seq (cond on sampled tp)] | Loss 24.647831 | Likelihood -6.590900 | KL fp 3.5210 | FP STD 0.0314|
+KL coef: 0.5479563497335247
+Train loss (one batch): 23.55510902404785
+Train CE loss (one batch): 0.11137087643146515
+Classification AUC (TEST): 0.8782
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17226314544677734
+	##########################################
+		 EPOCA 89
+-------------------------------------------------------------
+	##########################################
+Epoch 0090 [Test seq (cond on sampled tp)] | Loss 24.701475 | Likelihood -6.459650 | KL fp 3.6119 | FP STD 0.0298|
+KL coef: 0.5524767862361895
+Train loss (one batch): 24.660404205322266
+Train CE loss (one batch): 0.1249149963259697
+Classification AUC (TEST): 0.8775
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17345063388347626
+	##########################################
+		 EPOCA 90
+-------------------------------------------------------------
+	##########################################
+Epoch 0091 [Test seq (cond on sampled tp)] | Loss 24.638824 | Likelihood -6.431608 | KL fp 3.6367 | FP STD 0.0289|
+KL coef: 0.5569520183738275
+Train loss (one batch): 23.186288833618164
+Train CE loss (one batch): 0.10939836502075195
+Classification AUC (TEST): 0.8779
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.1728050708770752
+	##########################################
+		 EPOCA 91
+-------------------------------------------------------------
+	##########################################
+Epoch 0092 [Test seq (cond on sampled tp)] | Loss 24.565607 | Likelihood -6.370161 | KL fp 3.5990 | FP STD 0.0290|
+KL coef: 0.5613824981900892
+Train loss (one batch): 23.30962562561035
+Train CE loss (one batch): 0.11318209022283554
+Classification AUC (TEST): 0.8780
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17273679375648499
+	##########################################
+		 EPOCA 92
+-------------------------------------------------------------
+	##########################################
+Epoch 0093 [Test seq (cond on sampled tp)] | Loss 24.641750 | Likelihood -6.262844 | KL fp 3.8294 | FP STD 0.0264|
+KL coef: 0.5657686732081884
+Train loss (one batch): 23.218547821044922
+Train CE loss (one batch): 0.11050111055374146
+Classification AUC (TEST): 0.8778
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.1731097549200058
+	##########################################
+		 EPOCA 93
+-------------------------------------------------------------
+	##########################################
+Epoch 0094 [Test seq (cond on sampled tp)] | Loss 24.536343 | Likelihood -6.377903 | KL fp 3.6128 | FP STD 0.0300|
+KL coef: 0.5701109864761065
+Train loss (one batch): 22.97089385986328
+Train CE loss (one batch): 0.1092386469244957
+Classification AUC (TEST): 0.8785
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17197397351264954
+	##########################################
+		 EPOCA 94
+-------------------------------------------------------------
+	##########################################
+Epoch 0095 [Test seq (cond on sampled tp)] | Loss 24.575108 | Likelihood -6.235492 | KL fp 3.6755 | FP STD 0.0276|
+KL coef: 0.5744098766113455
+Train loss (one batch): 22.838552474975586
+Train CE loss (one batch): 0.1101178526878357
+Classification AUC (TEST): 0.8779
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.1732705682516098
+	##########################################
+		 EPOCA 95
+-------------------------------------------------------------
+	##########################################
+Epoch 0096 [Test seq (cond on sampled tp)] | Loss 24.578186 | Likelihood -6.286091 | KL fp 3.5986 | FP STD 0.0281|
+KL coef: 0.578665777845232
+Train loss (one batch): 22.29839324951172
+Train CE loss (one batch): 0.10580591857433319
+Classification AUC (TEST): 0.8780
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17308497428894043
+	##########################################
+		 EPOCA 96
+-------------------------------------------------------------
+	##########################################
+Epoch 0097 [Test seq (cond on sampled tp)] | Loss 24.653622 | Likelihood -6.306385 | KL fp 3.5055 | FP STD 0.0294|
+KL coef: 0.5828791200667797
+Train loss (one batch): 23.376312255859375
+Train CE loss (one batch): 0.11851295083761215
+Classification AUC (TEST): 0.8777
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17402558028697968
+	##########################################
+		 EPOCA 97
+-------------------------------------------------------------
+	##########################################
+Epoch 0098 [Test seq (cond on sampled tp)] | Loss 24.517216 | Likelihood -6.085948 | KL fp 3.7515 | FP STD 0.0248|
+KL coef: 0.5870503288661119
+Train loss (one batch): 23.43716812133789
+Train CE loss (one batch): 0.11837949603796005
+Classification AUC (TEST): 0.8782
+Test MSE: 0.0019
+Poisson likelihood: 0.0
+CE loss: 0.17327557504177094
+	##########################################
+		 EPOCA 98
+-------------------------------------------------------------
+	##########################################
+Epoch 0099 [Test seq (cond on sampled tp)] | Loss 24.571070 | Likelihood -6.042181 | KL fp 3.7842 | FP STD 0.0242|
+KL coef: 0.5911798255774507
+Train loss (one batch): 23.345661163330078
+Train CE loss (one batch): 0.11720633506774902
+Classification AUC (TEST): 0.8779
+Test MSE: 0.0019
+Poisson likelihood: 0.0
+CE loss: 0.17390385270118713
+	##########################################
+		 EPOCA 99
+-------------------------------------------------------------
+	##########################################
+Epoch 0100 [Test seq (cond on sampled tp)] | Loss 25.339539 | Likelihood -6.509334 | KL fp 3.6081 | FP STD 0.0306|
+KL coef: 0.5952680273216762
+Train loss (one batch): 24.42547607421875
+Train CE loss (one batch): 0.12675948441028595
+Classification AUC (TEST): 0.8767
+Test MSE: 0.0020
+Poisson likelihood: 0.0
+CE loss: 0.17781130969524384
+	##########################################
+		 EPOCA 100
+-------------------------------------------------------------
