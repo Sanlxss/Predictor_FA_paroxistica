@@ -1,8 +1,3 @@
-###########################
-# Latent ODEs for Irregularly-Sampled Time Series
-# Author: Yulia Rubanova
-###########################
-
 import gc
 import numpy as np
 import sklearn as sk
